@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="stylesheet.css" />
+    <link rel="stylesheet" href="form.css" />
     <link
       rel="shortcut icon"
       href="images/Symbol-New-York-Times-387x500.png"
@@ -435,7 +436,50 @@
             <!-- <img src="svg/share.svg" alt="share-icon" /></a> -->
           </a>
         </div>
+
+<!-- New form -->
+
+
+    <form action="" method="">
+
+    
+        <h3 class="formheader"> Give Us A Feedback! </h3>
+        <div class="inside-form">
+      <label for="name">Your Name:</label>
+      <input type="text" name="name" id="name" class ="input" required maxlength="20"/> <br><br>
+
+      <label for="email">Email:</label>
+      <input type="email" name="email" id="email" required class ="input"  maxlength="20"/> <br /><br />
+
+      <label>Comment:</label><br>
+      <textarea
+        name="comment"
+        id="textarea"
+        placeholder="Type Your Comment Here"
+        required  maxlength="250" ></textarea>
+      <br /><br />
+      <label for="reviewinput"
+        >What is your overall opinion about this article?</label
+      >
+    </br>
+      <input type="radio" name="review" value="positive" />Positive
+      <input type="radio" name="review" value="negative" />Negative
+      <input type="radio" name="review" value="netural" />Netural <br /><br />
+      <input type="checkbox" name="check" value="check"/>I want to subscribe to a Free
+           NYT Science Newsletter!  <br /><br />
+     
+      
+
+      <button class="form-button" type="submit" value="Submit" id="submit"> Sign Up </button>  
+
+    </div>
+
+    </form>
+
+<!-- New Form Close -->
+
       </section>
+
 
       <div class="bottom">
         <div class="bottom-style">
