@@ -2,7 +2,6 @@ form,
 .form {
   display: block;
   margin: 0 auto;
-  /* max-width: 36%; */
   margin: 38px auto;
   border: 2px solid rgba(0, 0, 0, 0.1);
   padding-bottom: 17px;
@@ -10,12 +9,8 @@ form,
 }
 
 .form1 {
-  /* display: block; */
   border: none;
   margin: 0 auto;
-  /* max-width: 36%; */
-  margin: 0 auto;
-  /* border: 2px solid rgba(0, 0, 0, 0.1); */
   font-size: 1.5rem;
   font-family: nyt-franklin, helvetica, arial, sans-serif;
 }
@@ -25,12 +20,6 @@ form,
   font-family: nyt-franklin, helvetica, arial, sans-serif;
   font-size: 2rem;
   border-bottom: 1px solid rgba(80, 31, 31, 0.1);
-  /* line-height: 3rem; */
-  /* text-align: center; */
-  /* margin-left: auto; */
-  /* margin-right: auto; */
-  /* padding-top: 25px; */
-  /* font-style: italic; */
   font-weight: lighter;
   margin-top: 2px;
   padding: 12px 56px;
