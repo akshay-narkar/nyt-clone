@@ -16,7 +16,7 @@ The first project under Microverse curriculum which has been created using the H
 It is a mock site which is created for the learning purpose it. All the files are available on Github for anyone to learn from them.
 
 ## Live Demo
-[Live Demo Link](https://raw.githack.com/raovikrant82/NYTMicroverseProject/nytdraft/index.html)
+[Live Demo Link](https://rawcdn.githack.com/akshay-narkar/nyt-clone/661e00ffdf9d9e51eba14adab2096aca5bbd1b47/index.html)
 
 ## Authors
 - GitHub: @akshay-narkar
